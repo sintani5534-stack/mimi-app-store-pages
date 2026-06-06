@@ -933,6 +933,14 @@ ol {
   width: 100%;
 }
 
+.terms-section {
+  margin-top: 42px;
+}
+
+.terms-section .policy-grid {
+  width: 100%;
+}
+
 .policy-card {
   padding: var(--card-padding);
   min-height: 100%;
